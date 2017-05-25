@@ -31,6 +31,7 @@ body {
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
+  font-family: 'Raleway', sans-serif;
   font-size: 17px;
   cursor: pointer;
 }
@@ -72,7 +73,14 @@ body {
   height: 320px;
   background-image: url(Gallery/nycda.jpg);
   border-radius: 10px;
-  margin: 10px;
+  margin: auto;
+}
+
+#nycda_logo {
+  display: block;
+  height: 320px;
+  width: 320px;
+  margin: auto;
 }
 
 /*===== Post 2 ===== */
@@ -82,7 +90,7 @@ body {
   background-image: url(Gallery/tnews.jpg);
   background-repeat: no-repeat;
   border-radius: 10px;
-  margin: 10px;
+  margin: auto;
 }
 
 /*===== Footer =====*/
